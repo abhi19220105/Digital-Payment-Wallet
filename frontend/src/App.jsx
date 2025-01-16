@@ -5,7 +5,7 @@ import { Dashboard } from "./pages/Dashboard";
 import { SendMoney } from "./pages/SendMoney";
 import { RecoilRoot } from "recoil";
 import { RootHandler } from "./pages/Root";
-
+//this is main function
 function App() {
   return (
     <>
